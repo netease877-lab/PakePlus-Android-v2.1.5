@@ -1,10 +1,10 @@
 {
-    "name": "PakePlus",
-    "version": "1.0.0",
-    "description": "A sample mobile application by PakePlus",
-    "author": "1024coder",
-    "webUrl": "https://pakeplus.com/",
+    "name": "大纲工坊",
+    "version": "0.0.1",
+    "description": "大纲工坊 - AI大纲应用",
+    "author": "AIdagang",
+    "webUrl": "https://dagang.ztcoco.cn/",
     "debug": false,
     "userAgent": "",
-    "fullScreen": false
+    "fullScreen": true
 }
